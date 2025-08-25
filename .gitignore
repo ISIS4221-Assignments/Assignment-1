@@ -21,3 +21,6 @@ __pycache__/
 # Archivos de la carpeta data
 /data/docs-raw-texts/
 /data/queries-raw-texts/
+
+# Version local de python 
+.python-version
