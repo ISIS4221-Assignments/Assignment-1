@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Antes de ejecutar el proyecto, **es necesario configurar las rutas** según tu sistema:
 
 - 🔍 Las rutas que necesitan modificación están claramente señaladas con:
-  - **Comentarios `# CAMBIAR`** en mayúsculas
+  - **Comentarios `# CAMBIE`** en mayúsculas
   - **Docstrings** explicativos en cada función
 
 Busca estos indicadores en el código y actualiza las rutas según tu configuración local.
